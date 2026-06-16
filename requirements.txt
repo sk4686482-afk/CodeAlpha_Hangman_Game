@@ -1,0 +1,4 @@
+# Task 1 - Hangman Game
+# No external libraries required.
+# This project uses only Python built-in modules.
+# Built-in modules used: random, time
